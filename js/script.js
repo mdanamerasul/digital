@@ -1,3 +1,5 @@
+// AUTHOR:MD ANAM E RASUL
+
 // DOM Elements
 const time = document.getElementById('time'),
   greeting = document.getElementById('greeting'),
